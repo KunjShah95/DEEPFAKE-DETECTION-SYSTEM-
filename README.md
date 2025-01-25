@@ -1,4 +1,4 @@
-**# DEEPFAKE DETECTION SYSTEM 🚀
+ DEEPFAKE DETECTION SYSTEM 🚀
 
 ![Deepfake Detection](https://img.shields.io/badge/Deepfake-Detection-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter%20Notebook-orange)
