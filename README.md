@@ -53,9 +53,11 @@ deepfake_detection.ipynb
 ```
 
 🤝 Contributing
-We welcome contributions from the community! Here’s how you can help:
+We welcome contributions from the community! 
+Here’s how you can help:
 
 1.Fork the repository.
+
 2.Create a new branch:
 ```
 git checkout -b feature-your-feature-name
